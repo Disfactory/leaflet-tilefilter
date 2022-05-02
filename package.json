@@ -1,5 +1,5 @@
 {
-  "name": "leaflet-tilefilter",
+  "name": "@disfactory/leaflet-tilefilter",
   "version": "0.0.2",
   "description": "Allows you to apply image filters to Leaflet map tiles",
   "main": "dist/leaflet-tilefilter.min.js",
